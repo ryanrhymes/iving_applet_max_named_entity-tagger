@@ -1,4 +1,4 @@
-# iving_applet_max_inception_resnet_v2
+# iving_applet
 
 
 # Refer to
